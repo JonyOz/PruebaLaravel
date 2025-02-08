@@ -26,7 +26,7 @@
             </ul>
         </div>
         <div class="col-md-6">
-            <h2>Además de la respuesta</h2>
+            <h2>Otras habilidades</h2>
             <ul class="list-unstyled">
                 <li><strong>Diseño:</strong> 8</li>
                 <li><strong>Scrum:</strong> 10</li>
@@ -60,7 +60,7 @@
     <!-- Sección de Conócenos -->
     <div class="row mt-5">
         <div class="col-md-6">
-            <img src="/images/inicio1.jpg" class="img-fluid rounded" alt="Imagen 1">
+            <img src="/img/logo.jpeg" class="img-fluid rounded" alt="Imagen 1">
         </div>
         <div class="col-md-6">
             <h3>Conócenos</h3>
