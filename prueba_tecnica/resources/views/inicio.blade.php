@@ -9,8 +9,8 @@
         <h1 class="mb-4">Conoce y Descubre</h1>
         <p class="lead">Descubre nuestros emocionantes proyectos</p>
         <div class="d-flex justify-content-center gap-3">
-            <button class="btn btn-warning">Empecemos</button>
-            <button class="btn btn-outline-warning">Aprender Más</button>
+            <a href="/formulario"><button class="btn btn-warning">Empecemos</button></a>
+            <a href="/acerca"><button class="btn btn-outline-warning">Aprender Más</button></a>
         </div>
     </div>
 
@@ -20,26 +20,24 @@
         <div class="col-md-6">
             <h2>Capacidades</h2>
             <ul class="list-unstyled">
-                <li><strong>Capacidad:</strong> 1</li>
-                <li><strong>Nombre:</strong> 11</li>
-                <li><strong>Copia de conocimiento:</strong> 3.0 m</li>
+                <li><strong>DJango:</strong> 10</li>
+                <li><strong>PHP:</strong> 8</li>
+                <li><strong>Ciberseguridad:</strong> 10</li>
             </ul>
         </div>
         <div class="col-md-6">
             <h2>Además de la respuesta</h2>
             <ul class="list-unstyled">
-                <li><strong>Diseño:</strong> 20</li>
-                <li><strong>Recursos:</strong> 30</li>
-                <li><strong>Además de la respuesta:</strong> 10</li>
-                <li><strong>Copro:</strong> 1</li>
-                <li><strong>Diseño:</strong> 5</li>
-                <li><strong>Diseñadores:</strong> 2</li>
-                <li><strong>Puntivo-código obras:</strong> 4</li>
-                <li><strong>Lapa:</strong> 8</li>
-                <li><strong>Trabajadores:</strong> 7</li>
-                <li><strong>Edipo documentos electrónico:</strong> 6</li>
-                <li><strong>Inicio:</strong> 9</li>
-                <li><strong>Recursos:</strong> 32</li>
+                <li><strong>Diseño:</strong> 8</li>
+                <li><strong>Scrum:</strong> 10</li>
+                <li><strong>JavaScript:</strong> 10</li>
+                <li><strong>CSS:</strong> 8</li>
+                <li><strong>HTML:</strong> 8</li>
+                <li><strong>UX:</strong> 9</li>
+                <li><strong>Python:</strong> 10</li>
+                <li><strong>XP:</strong> 8</li>
+                <li><strong>Java:</strong> 10</li>
+                <li><strong>C++:</strong> 6</li>
             </ul>
         </div>
     </div>
@@ -54,8 +52,8 @@
             </div>
         </div>
         <div class="col-md-6">
-            <h2>Edumocs</h2>
-            <p>Conéctate y pre-inscríbete a todos los cursos que necesites y expande tus conocimientos. Reserva y obtén acceso al curso de tu interés.</p>
+            <h2>Prueba Tecnica</h2>
+            <p>Prueba tecnica para la empresa naranti diseñada y postulada para demostrar conocimientos básicos en el framework</p>
         </div>
     </div>
 
@@ -67,7 +65,7 @@
         <div class="col-md-6">
             <h3>Conócenos</h3>
             <p>Naranti</p>
-            <button class="btn btn-warning">Ver Más</button>
+            <a href="/acerca"><button class="btn btn-warning">Ver Más</button></a>
         </div>
     </div>
 </div>

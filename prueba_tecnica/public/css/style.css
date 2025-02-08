@@ -3,8 +3,12 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
     color: #333;
+    min-height: 100vh;
 }
 
+main{
+    flex: 1;
+}
 /* Navbar */
 .navbar {
     background: linear-gradient(90deg, #ff9966, #ff5e62);
@@ -105,7 +109,7 @@ body {
 .footer {
     background-color: #343a40;
     color: white;
-    padding: 15px 0;
+    padding: 55px 0;
     text-align: center;
 }
 

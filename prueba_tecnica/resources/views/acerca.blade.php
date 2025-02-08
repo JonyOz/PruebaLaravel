@@ -24,7 +24,7 @@
             </ul>
         </div>
         <div class="col-md-6">
-            <img src="/images/acerca.jpg" class="img-fluid rounded" alt="Imagen Acerca de Nosotros">
+            <img src="/img/logo.jpeg" class="img-fluid rounded" alt="Imagen Acerca de Nosotros">
         </div>
     </div>
 
@@ -55,17 +55,17 @@
             <h2 class="text-center">Nuestro Equipo</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-                    <img src="/images/team1.jpg" class="img-fluid rounded-circle team-section img" alt="Miembro del Equipo 1">
+                    <img src="/img/team1.png" class="img-fluid rounded-circle team-section img" alt="Miembro del Equipo 1">
                     <h4 class="team-section h4">Juan Pérez</h4>
                     <p class="team-section p">CEO</p>
                 </div>
                 <div class="col-md-4 text-center">
-                    <img src="/images/team2.jpg" class="img-fluid rounded-circle" alt="Miembro del Equipo 2">
+                    <img src="/img/team2.png" class="img-fluid rounded-circle" alt="Miembro del Equipo 2">
                     <h4 class="team-section h4">María Gómez</h4>
                     <p class="team-section p">Directora de Marketing</p>
                 </div>
                 <div class="col-md-4 text-center">
-                    <img src="/images/team3.jpg" class="img-fluid rounded-circle team-section img" alt="Miembro del Equipo 3">
+                    <img src="/img/team3.png" class="img-fluid rounded-circle team-section img" alt="Miembro del Equipo 3">
                     <h4 class="team-section h4">Carlos López</h4>
                     <p class="team-section p">Desarrollador Senior</p>
                 </div>

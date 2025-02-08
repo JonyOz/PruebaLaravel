@@ -1,3 +1,4 @@
+<!--Esto de aqui es el layaout o la base que se repite en todas las vistas-->
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -20,7 +21,8 @@
                     <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                     <li class="nav-item"><a class="nav-link" href="/acerca">Acerca</a></li>
                     <li class="nav-item"><a class="nav-link" href="/portafolio">Portafolio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/formulario">Contacto</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/formularios">Mensajes</a></li>
                 </ul>
             </div>
         </div>
