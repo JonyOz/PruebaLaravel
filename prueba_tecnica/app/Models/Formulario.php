@@ -11,8 +11,8 @@ class Formulario extends Model
 
     // Agrega los campos permitidos para la asignación masiva
     protected $fillable = [
-        'nombre',       // Agregar el campo 'nombre'
-        'telefono',     // Asegúrate de que otros campos también estén aquí
+        'nombre',       
+        'telefono',     
         'ciudad',
         'correo',
         'mensaje',

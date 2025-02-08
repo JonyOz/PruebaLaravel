@@ -1,4 +1,4 @@
-<!-- resources/views/formularios/edit.blade.php -->
+
 @extends('layouts.app')
 
 @section('content')

@@ -1,5 +1,5 @@
-<!-- resources/views/formularios/index.blade.php -->
-@extends('layouts.app') {{-- Si tienes un layout principal, extiéndelo --}}
+
+@extends('layouts.app') 
 @section('title', 'Mensajes')
 @section('content')
 <div class="container mt-5">
