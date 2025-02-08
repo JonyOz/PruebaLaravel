@@ -24,10 +24,12 @@
                 <li><strong>PHP:</strong> 8</li>
                 <li><strong>Ciberseguridad:</strong> 10</li>
             </ul>
+            <img src="img/imagen3.png" alt="Imagen 3">
         </div>
         <div class="col-md-6">
+            
             <h2>Otras habilidades</h2>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled card">
                 <li><strong>Diseño:</strong> 8</li>
                 <li><strong>Scrum:</strong> 10</li>
                 <li><strong>JavaScript:</strong> 10</li>

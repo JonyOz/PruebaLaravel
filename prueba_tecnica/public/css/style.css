@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
+    background-color: #c0cdda;
     color: #333;
     min-height: 100vh;
 }
@@ -63,7 +63,7 @@ main{
 .laparte2 {
     text-align: center;
     padding: 50px 0;
-    background: linear-gradient(90deg, #fff279, #ffffff);
+    background: linear-gradient(90deg, #ccc5bc, #c4ae92);
     border-radius: 15px;
     color: #333;
 }
@@ -72,7 +72,7 @@ main{
 .laparte3 { 
     text-align: center;
     padding: 50px 0;
-    background: linear-gradient(90deg, #d8d8d8, #9e9e9e);
+    background: linear-gradient(90deg, #ecad00, #9e9e9e);
     border-radius: 15px;
     color: #333;
 }
@@ -123,7 +123,7 @@ main{
 
 /* Estilos para las listas */
 .list-unstyled {
-    text-align: left;
+    text-align: center;
 }
 
 .list-unstyled li {
