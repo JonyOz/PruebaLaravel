@@ -15,6 +15,7 @@
     </div>
 
     <!-- Sección de Capacidades -->
+    <div class="laparte2 py-5">
     <div class="row mt-5">
         <div class="col-md-6">
             <h2>Capacidades</h2>
@@ -42,7 +43,9 @@
             </ul>
         </div>
     </div>
+    </div>
 
+    <div class="laparte3 py-5">
     <!-- Sección de Video y Descripción -->
     <div class="row mt-5 align-items-center">
         <div class="col-md-6">
@@ -67,5 +70,6 @@
             <button class="btn btn-warning">Ver Más</button>
         </div>
     </div>
+</div>
 </div>
 @endsection

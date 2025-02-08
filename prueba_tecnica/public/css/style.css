@@ -35,10 +35,12 @@ body {
 }
 
 /* Sección principal */
+
+/*Desde esta clase se cambia el hero y el texto que va en el*/
 .hero-section {
     text-align: center;
-    padding: 50px 0;
-    background: linear-gradient(90deg, #fbc2eb, #a6c1ee);
+    padding: 100px 0;
+    background: linear-gradient(90deg, #f7d464, #f0c585);
     border-radius: 15px;
     color: #333;
 }
@@ -51,6 +53,24 @@ body {
 .hero-section p {
     font-size: 1.2rem;
     color: #666;
+}
+
+/*Este controla la parte central donde están las listas padding y coloress*/
+.laparte2 {
+    text-align: center;
+    padding: 50px 0;
+    background: linear-gradient(90deg, #fff279, #ffffff);
+    border-radius: 15px;
+    color: #333;
+}
+
+/*Este controla el estilo color y el padding del video y toda esa linea de columnas*/
+.laparte3 { 
+    text-align: center;
+    padding: 50px 0;
+    background: linear-gradient(90deg, #d8d8d8, #9e9e9e);
+    border-radius: 15px;
+    color: #333;
 }
 
 /* Contenedor de video */
@@ -96,23 +116,6 @@ body {
     padding: 10px;
 }
 
-/* Estilos para la sección hero */
-.hero-section {
-    background: linear-gradient(90deg, #fbc2eb, #a6c1ee);
-    padding: 50px 0;
-    border-radius: 15px;
-    color: #333;
-}
-
-.hero-section h1 {
-    font-size: 2.5rem;
-    color: #333;
-}
-
-.hero-section p {
-    font-size: 1.2rem;
-    color: #666;
-}
 
 /* Estilos para las listas */
 .list-unstyled {
@@ -121,4 +124,81 @@ body {
 
 .list-unstyled li {
     margin-bottom: 10px;
+}
+
+/* Estilos para la sección de Acerca de Nosotros */
+.acerca-section {
+    padding: 50px 0;
+    background: linear-gradient(90deg, #f7d464, #f0c585);
+    border-radius: 10px;
+}
+
+.acerca-section h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.acerca-section h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.acerca-section p {
+    font-size: 1.1rem;
+    color: #666;
+}
+
+.acerca-section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.acerca-section ul li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.acerca-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para las estadísticas */
+.stats-section {
+    background-color: #6e6e6e;
+    padding: 30px 0;
+    border-radius: 10px;
+}
+
+.stats-section h3 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.stats-section p {
+    font-size: 1.1rem;
+    color: #ffffff;
+}
+
+/* Estilos para el equipo */
+.team-section {
+    padding: 30px 0;
+}
+
+.team-section img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.team-section h4 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.team-section p {
+    font-size: 1.1rem;
+    color: #666;
 }
